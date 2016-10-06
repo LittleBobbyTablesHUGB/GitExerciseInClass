@@ -1,7 +1,8 @@
 Mean Girls
 Shawshank Redemption
-<<<<<<< HEAD
 Happy Gilmore
+Southpark
+
 =======
 True Romance 
 Grease
