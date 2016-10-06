@@ -1,12 +1,8 @@
 Mean Girls
 Shawshank Redemption
-<<<<<<< HEAD
 Happy Gilmore
-=======
 True Romance 
 Grease
 Aulinn ég
 Benjamín Dúfa
 Bodyguard
-
->>>>>>> 8e78dfb188501a3f9552f2c04ff19e1443b2269c
